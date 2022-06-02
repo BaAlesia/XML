@@ -1,1 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<cat>
+ <Name>Alesia</Name>
+ <Bug id>1</Bug id>
+ <Title>The SAVE DATA button is smaller than the others</Title>
+ <Severity>trivial</Severity>
+ <Priority>low</Priority>
+ <Environment>Xiaomi Redmi Note 8 Android 11 RKQ1.201004.002 MIUI Global 12.5.2</Environment>
+ <Precondition>Buttons of the same size</Precondition>
+ <AR>The application buttons have one view</AR>
+ <ER>The SAVE DATA button is smaller than the others</ER>
+ <Attachments>yes</Attachments>
+</cat>
 
