@@ -1,5 +1,8 @@
-
- <?xml version="1.0" encoding="UTF-8"?>
-<cat>
- <My new skills>What is JSON, its structure; Basic knowledge of terminal; What is client-server architecture; Mobile testing</My new skills>
-</cat>
+<?xml version="1.0" encoding="UTF-8" ?>
+<my_new_skills>
+    <json>What is JSON, its structure</json>
+    <terminal>Basic knowledge of terminal</terminal>
+    <basic_theory>What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC</basic_theory>
+    <architecture>What is client-server architecture</architecture>
+    <testing>Mobile testing</testing>
+</my_new_skills>
